@@ -9,8 +9,8 @@
 </p>
 
 
-:pencil2: Currently working on: **Machine Learning** | 
-:books: Currently improving on: **SQL and ETL** |
+:pencil2: Currently working on: a **Machine Learning** project| 
+:books: Currently improving on: **SQL and ETL** skills|
 :speech_balloon: Ask me about: **Bootstrap or Tableau**
             
 
