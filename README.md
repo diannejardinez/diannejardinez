@@ -10,7 +10,7 @@
 
 
 :pencil2: Currently working on: **Machine Learning** project| 
-:books: Currently improving on: **SQL and ETL** skills|
+:books: Currently improving on: **SQL and ETL** |
 :speech_balloon: Ask me about: **Bootstrap or Tableau**
             
 
