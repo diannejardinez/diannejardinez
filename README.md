@@ -1,5 +1,5 @@
 
-![](https://github.com/diannejardinez/test/blob/master/banner3.jpeg)
+![](https://github.com/diannejardinez/diannejardinez/blob/master/sf-botanical-garden-jardinez.jpeg)
 
 <p align = "center">I'm an admin turned coder based in the Bay Area </p>
 
