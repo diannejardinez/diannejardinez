@@ -17,8 +17,10 @@
 <h2 align="center"> Skill set </h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="bootsrap icon" title="Bootstrap 3 & 4" height="30" width="30" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/d3-dot-js.svg" alt="D3.js icon" title="D3.js" height="30" width="30" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="tableau icon" title="Tableau" height="30" width="30" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="HTML5 icon" title="HTML5" height="30" width="30" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/d3-dot-js.svg" alt="D3.js icon" title="D3.js" height="30" width="30" /> &nbsp;
+
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JS icon" title="JavaScript" height="30" width="30" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="PostgreSQL icon" title="PostgreSQL" height="30" width="30" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python icon" title="Python 2.7 & 3" height="30" width="30" /> 
