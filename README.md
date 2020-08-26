@@ -9,7 +9,7 @@
 </p>
 
 
-:pencil2: Currently working on: **Machine Learning** project| 
+:pencil2: Currently working on: **Machine Learning** | 
 :books: Currently improving on: **SQL and ETL** |
 :speech_balloon: Ask me about: **Bootstrap or Tableau**
             
