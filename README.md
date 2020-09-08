@@ -9,7 +9,7 @@
 </p>
 
 
-:pencil2: Currently learning: **Google Analytis** | 
+:pencil2: Currently learning: **Google Analytics** | 
 :books: Currently improving on: **SQL and ETL** |
 :speech_balloon: Ask me about: **Bootstrap or Tableau**
             
