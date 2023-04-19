@@ -9,9 +9,9 @@
 </p>
 
 
-:pencil2: Currently learning: **Google Analytics** | 
-:books: Currently improving on: **SQL and ETL** |
-:speech_balloon: Ask me about: **Bootstrap or Tableau**
+:pencil2: Currently learning to be: **Tableau Certified Data Analyst** | 
+:books: Currently improving on: **SQL** |
+:speech_balloon: Ask me about: **Tableau**
             
 
 <h2 align="center"> Skill set </h2>
