@@ -1,7 +1,7 @@
 
 ![](https://github.com/diannejardinez/diannejardinez/blob/master/sf-botanical-garden-jardinez.jpeg)
 
-<p align = "center">I'm an admin turned coder based in the Bay Area </p>
+<p align = "center">I'm an admin with a coding-oriented understanding in Silicon Valley</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/dianne-jardinez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/dianne-jardinez/" title="Connect with me on LinkedIn" height="30" width="30" /></a> &nbsp;
@@ -9,9 +9,9 @@
 </p>
 
 
-:pencil2: Currently learning to be: **Tableau Certified Data Analyst** | 
-:books: Currently improving on: **SQL** |
-:speech_balloon: Ask me about: **Tableau**
+✏️ Currently getting my PDUs as a **PMP Certified Project Manager** | 
+📚 Currently improving on: **Agile Methodology** |
+💭 Ask me about: **Tableau**
             
 
 <h2 align="center"> Skill set </h2>
